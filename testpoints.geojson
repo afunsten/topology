@@ -231,7 +231,20 @@
                 "description": "<font face=\"arial\" size=\"2\">530 S Ohio St&nbsp;Culver, IN 46511</font><br>"
             }
         },
-       
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.080383,
+                    41.473602,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Figure Eight Brewing LLC"
+            }
+        },
         {
             "type": "Feature",
             "geometry": {
@@ -289,9 +302,218 @@
                 "name": "Granite City - Indianapolis"
             }
         },
-   
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.187744,
+                    41.718029,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Granite City - Mishawaka"
+            }
         },
-          {
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.135803,
+                    41.111176,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Granite City - Fort Wayne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.899597,
+                    39.057316,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Great Crescent Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.127319,
+                    40.434406,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Half Moon Restaurant & Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.974884,
+                    41.689835,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iechyd Da Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.140793,
+                    39.765831,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Indiana City Brewing Co. - Coming Soon",
+                "description": "Indianapolis, IN 46202<br><a href=\"https://maps.google.com/maps/place?ftid=0x886b508edd191a6f:0xad524a032980192a&amp;q=24+Shelby+Street,+indianapolis&amp;gl=us&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=FG8JULPVAtSzwAH5qMnSDQ&amp;sig2=WyeOd2bwfv2NjnWqH_cpZA&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.765832,-86.140794&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.889923,
+                    40.419182,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lafayette Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.218491,
+                    39.296646,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "LiL' Charlie's Restaurant & Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.152283,
+                    41.067963,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mad Anthony Brewing Co - Fort Wayne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.858154,
+                    41.236511,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mad Anthony Brewing Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.822327,
+                    38.286823,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Albanian Bank St Brewhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.817253,
+                    38.328007,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Albanian Public House & Pizzaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.891373,
+                    39.834255,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Boswell Brewing Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.139648,
+                    39.752438,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Day Meadery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.090141,
+                    39.614971,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oaken Barrel Brewing Co"
+            }
+        },
+        {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2092,510 +2314,8 @@
             "properties": {
                 "name": "21st Amendment - North"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.121658,
-                    39.882999,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "21st Amendment - North Keystone"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.152122,
-                    39.78054,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Alabama Liquor Store"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.224648,
-                    41.693935,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Belmont Beverage"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.534584,
-                    39.176918,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Big Red Liquors"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.145279,
-                    39.842979,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Bottle Shoppe"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.843735,
-                    41.588741,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Chalet Party Shoppe"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.249718,
-                    41.67522,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "City Wide Liquors Inc"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.199287,
-                    39.664089,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Crown Liquors"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.15461,
-                    39.769695,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Crown Liquors"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.206924,
-                    39.912392,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Crown Liquors"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.157875,
-                    39.971069,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Crown Liquors"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.156128,
-                    39.767647,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "John's Spirits Decanters & Fine Wines"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.121742,
-                    39.84993,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Kahn's Fine Wines & Spirits"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.202156,
-                    39.912125,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Kahn's Fine Wines & Spirits - North Willow"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.765869,
-                    38.312237,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Keg Liquors - Clarksville"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.822441,
-                    38.285049,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Keg Liquors - New Albany"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.142769,
-                    39.779476,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Mass Ave Wine Shoppe"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.99823,
-                    40.04549,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Mr G's Liquor"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.144997,
-                    39.968437,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Payless Liquors Inc"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.117287,
-                    39.64999,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Parti Pak Liquors"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.116852,
-                    39.774506,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Rural Inn: Keg Beer Near Downtown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.500397,
-                    39.164452,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Sahara Mart"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.533295,
-                    39.161346,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Sahara Mart"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.18573,
-                    39.664188,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Southport Liquors"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.075127,
-                    39.904739,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Trader Joe's"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.212456,
-                    39.912491,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Trader Joe's"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.158478,
-                    39.636166,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "United Package Liquor"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.141541,
-                    39.86982,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "United Package Liquors Inc"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.120796,
-                    39.961597,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Vine & Table gourmet market"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.258812,
-                    41.514488,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "WiseGuys Discount Liquors | Hobart"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.145416,
-                    41.087631,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Brewer's Art Supply"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.083176,
-                    39.875607,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Great Fermentations of Indiana"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.085678,
-                    41.179173,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Hops & Harvest"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.365898,
-                    41.417515,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Kennywood Brewing Supply"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.968018,
-                    41.688297,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Quality Wine & Ale Supply LLC"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.139236,
-                    39.751198,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Tuxedo Park Brewers Equipment & Supply Company"
-            }
         }
+
+
     ]
 }
